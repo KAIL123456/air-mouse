@@ -3,15 +3,6 @@
 
 ---
 
-## 📋 System Requirements
-
-### Hardware
-- **Processor**: Intel i7 11th Gen or equivalent (✓ You have this!)
-- **RAM**: 8GB minimum, 32GB recommended (✓ You have this!)
-- **Storage**: NVMe SSD recommended (✓ You have this!)
-- **Graphics**: Integrated graphics supported, dedicated GPU recommended
-- **Webcam**: Any USB webcam (720p or higher recommended)
-
 ### Operating System
 - Windows 10/11
 - Linux (Ubuntu 20.04+)
